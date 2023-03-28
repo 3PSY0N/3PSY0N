@@ -6,7 +6,3 @@
 ![visitor badge](https://visitor-badge.glitch.me/badge?page_id=3PSY0N.visitor-badge)
 
 https://gist.github.com/3PSY0N
-
----
-What I'm currently working on ❤️
-- Working on [WSVGS](https://github.com/3PSY0N/wsvgs)
