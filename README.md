@@ -3,6 +3,4 @@
   <img alt="Github Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=3PSY0N&show_icons=false&hide_title=false&layout=compact&card_width=260&hide_border=true&bg_color=ffffff" />
 </div>
 
-![visitor badge](https://visitor-badge.glitch.me/badge?page_id=3PSY0N.visitor-badge)
-
 https://gist.github.com/3PSY0N
